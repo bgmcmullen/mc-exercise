@@ -1,1 +1,1 @@
-
+The error that caused the merge conflict was Bob's failure to pull the main branch before continuing to work. This could have been prevented if Bob's had pulled the main branch then made a new branch and began to work.
